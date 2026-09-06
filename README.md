@@ -75,10 +75,7 @@ profissionalmente com programação.
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emersoncostat&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emersoncostat&layout=compact&theme=tokyonight&hide_border=true)
-
+https://github.com/Emersoncostat/mercadinho-JMM
 ---
 
 ## 📫 Contato
