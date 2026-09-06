@@ -1,6 +1,6 @@
 🎓 Estudante de **Ciência da Computação**  
 💻 Aprendendo programação, desenvolvimento de sistemas, estrutura e banco de dados
-🚀 Sempre buscando aprender algo novo e colocar em prática através de projetos
+
 
 ---
 
@@ -41,6 +41,7 @@ de desenvolver sistemas.
 - 🧠 Estruturas de Dados e Algoritmos
 - 💻 Programação em C
 - 🌐 Desenvolvimento Web
+- 🎲 Estrutura e Banco de Dados
 - 🔀 Git e GitHub
 - 📐 Fundamentos de Computação e Matemática
 
